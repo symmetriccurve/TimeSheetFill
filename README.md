@@ -9,7 +9,7 @@ AutoMate Filling HCL timeSheets
 >projectDirctory $ npm start
 ```
 
-### Once the Driver is up and running, Open new Terminal,run below command.
+### Once the Driver is up and running, Open new Terminal
 ```bash
 >projectDirctory $ npm run fill
 ```
