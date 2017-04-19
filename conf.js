@@ -1,7 +1,6 @@
 'use strict';
-var loginInfo = require('./variables').loginInfo
 
-// React Web testing
+
 exports.config = {
   directConnect: true,
   seleniumAddress: 'http://localhost:4444/wd/hub',
