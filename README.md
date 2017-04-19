@@ -1,24 +1,16 @@
 # e2e-react-protractor
-End-to-End testing for react framework with protractor
+AutoMate Filling HCL timeSheets
+(Submission is not part this automation and Browser Pauses to let the user click the Submit Button)
 
-## How to run ?
+## 
 
-### Install node modules:
+### Starting WebDriver that controls the browser(Clicks and fills):
 ```bash
-npm install
+>projectDirctory $ npm start
 ```
 
-### Update selenium webdriver:
+### Once the Driver is up and running, Open new Terminal,run below command.
 ```bash
-npm run update:driver
+>projectDirctory $ npm run fill
 ```
-
-### Start selenium webdriver:
-```bash
-npm run start:driver
-```
-
-### Running the specs:
-```bash
-npm start
-```
+### SitBack and Relax
