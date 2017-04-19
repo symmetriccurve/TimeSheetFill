@@ -13,4 +13,4 @@ AutoMate Filling HCL timeSheets
 ```bash
 >projectDirctory $ npm run fill
 ```
-### SitBack and Relax
+### Sit Back and Relax
