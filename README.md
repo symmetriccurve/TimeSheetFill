@@ -2,7 +2,7 @@
 AutoMate Filling HCL timeSheets
 (Submission is not part this automation and Browser Pauses to let the user click the Submit Button)
 
-## 
+## Assuming you have installed [Protractor](http://www.protractortest.org/#/)
 
 ### Starting WebDriver that controls the browser(Clicks and fills):
 ```bash
